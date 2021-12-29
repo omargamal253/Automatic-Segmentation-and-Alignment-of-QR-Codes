@@ -1,0 +1,1 @@
+# Automatic-Segmentation-and-Alignment-of-QR-Codes
