@@ -16,7 +16,6 @@ As a start, assume that the camera is perpendicular but of different distances f
      <h3 align="left"><pre>   - Images captured with perpendicular camera to the QR.</pre></h3>
      <h3 align="left"><pre>   - Images with different backgrounds.</pre></h3>
      <h3 align="left"><pre>   - QR with different in-plane rotation angle.</pre></h3>
-     <h3 align="left"><pre>   - QR on different sources (i.e. different lighting conditions).</pre></h3>
      <h3 align="left"><pre>   - QR on different materials (i.e. different lighting conditions)</pre></h4>
      
 <h2 align="left">Sample Input/Output</h2>
