@@ -14,12 +14,12 @@ As a start, assume that the camera is perpendicular but of different distances f
 
  The objective of this project is to detect, segment and align of QR Codes.
  Many condition are considered:
-     <h4 align="left">        - Different distances between camera and QR. </h4>
-     <h4 align="left">        - Picture taken from different camera perspectives.</h4>
-     <h4 align="left">        - Images with different backgrounds.</h4>
-     <h4 align="left">        - QR with different in-plane rotation angles.</h4>
-     <h4 align="left">        - QR on different sources (i.e. different lighting conditions).</h4>
-     <h4 align="left">        - Picture of more than one QR.</h4>
+     <h4 align="left"><pre>        - Different distances between camera and QR. </pre></h4>
+     <h4 align="left"><pre>        - Picture taken from different camera perspectives.</pre></h4>
+     <h4 align="left"><pre>        - Images with different backgrounds.</pre></h4>
+     <h4 align="left"><pre>        - QR with different in-plane rotation angles.</pre></h4>
+     <h4 align="left"><pre>        - QR on different sources (i.e. different lighting conditions).</pre></h4>
+     <h4 align="left"><pre>        - Picture of more than one QR.</pre></h4>
      
 <h2 align="left">Sample Input/Output</h2>
 
