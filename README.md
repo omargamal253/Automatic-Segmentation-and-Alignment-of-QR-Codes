@@ -3,9 +3,9 @@
 <h2 align="left">Main Idea</h2>
 
 Quick response (QR) code is a two-dimensional barcode that can hold different type of information. A QR code consists of black squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera1. The QR code system became popular in many applications due to its fast readability and greater storage capacity (e.g. product tracking, item identification, document management, FCIS attendance system… to name a few).
-This application aims to automatically segment the QR from an image. Then, correct its alignment so that its three corners aligned to top right, top left and bottom right, as shown in
+This application aims to automatically segment the QR from an image. Then, correct its alignment so that its three corners aligned to top right, top left and bottom right, as shown below
 
-![3](https://user-images.githubusercontent.com/48572908/147702854-0f0eab42-1866-411f-b847-0b3bdd6e1296.png)
+![3](https://user-images.githubusercontent.com/48572908/147704377-cd5b6fdb-7c93-479a-9393-736428ae854f.png)
 
 As a start, assume that the camera is perpendicular but of different distances from the QR. The QR can be represented to the camera with any in-plane rotation angle, any backgrounds and on different materials (white paper, poster, image on mobile…etc). The application should be able to automatically segment and align the QR from the given image.
 
@@ -14,12 +14,12 @@ As a start, assume that the camera is perpendicular but of different distances f
 
  The objective of this project is to detect, segment and align of QR Codes.
  Many condition are considered:
-     <h4 align="left"><pre>        - Different distances between camera and QR. </pre></h4>
-     <h4 align="left"><pre>        - Picture taken from different camera perspectives.</pre></h4>
-     <h4 align="left"><pre>        - Images with different backgrounds.</pre></h4>
-     <h4 align="left"><pre>        - QR with different in-plane rotation angles.</pre></h4>
-     <h4 align="left"><pre>        - QR on different sources (i.e. different lighting conditions).</pre></h4>
-     <h4 align="left"><pre>        - Picture of more than one QR.</pre></h4>
+     <h3 align="left"><pre>        - Different distances between camera and QR. </pre></h3>
+     <h3 align="left"><pre>        - Picture taken from different camera perspectives.</pre></h3>
+     <h3 align="left"><pre>        - Images with different backgrounds.</pre></h3>
+     <h3 align="left"><pre>        - QR with different in-plane rotation angles.</pre></h3>
+     <h3 align="left"><pre>        - QR on different sources (i.e. different lighting conditions).</pre></h3>
+     <h3 align="left"><pre>        - Picture of more than one QR.</pre></h4>
      
 <h2 align="left">Sample Input/Output</h2>
 
