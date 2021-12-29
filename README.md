@@ -7,6 +7,7 @@ This application aims to automatically segment the QR from an image. Then, corre
 
 ![3](https://user-images.githubusercontent.com/48572908/147704377-cd5b6fdb-7c93-479a-9393-736428ae854f.png)
 
+
 As a start, assume that the camera is perpendicular but of different distances from the QR. The QR can be represented to the camera with any in-plane rotation angle, any backgrounds and on different materials (white paper, poster, image on mobile…etc). The application should be able to automatically segment and align the QR from the given image.
 
 <h2 align="left">Objective</h2>
