@@ -9,16 +9,17 @@ This application aims to automatically segment the QR from an image. Then, corre
 
 As a start, assume that the camera is perpendicular but of different distances from the QR. The QR can be represented to the camera with any in-plane rotation angle, any backgrounds and on different materials (white paper, poster, image on mobile…etc). The application should be able to automatically segment and align the QR from the given image.
 
-<h2 align="left">Objective</h2> 
+<h2 align="left">Objective</h2>
+
 
  The objective of this project is to detect, segment and align of QR Codes.
  Many condition are considered:
-     - Different distances between camera and QR.
-     - Picture taken from different camera perspectives.
-     - Images with different backgrounds.
-     - QR with different in-plane rotation angles.
-     - QR on different sources (i.e. different lighting conditions).
-     - Picture of more than one QR.
+     <h4 align="left">        - Different distances between camera and QR. </h4>
+     <h4 align="left">        - Picture taken from different camera perspectives.</h4>
+     <h4 align="left">        - Images with different backgrounds.</h4>
+     <h4 align="left">        - QR with different in-plane rotation angles.</h4>
+     <h4 align="left">        - QR on different sources (i.e. different lighting conditions).</h4>
+     <h4 align="left">        - Picture of more than one QR.</h4>
      
 <h2 align="left">Sample Input/Output</h2>
 
@@ -26,7 +27,9 @@ As a start, assume that the camera is perpendicular but of different distances f
 
 <h2 align="left">Demo Screen</h2>
 
-![2](https://user-images.githubusercontent.com/48572908/147703450-4a7af524-1bbe-4d5e-ae7f-dc1bc4524ce3.png)
+![2 - Copy](https://user-images.githubusercontent.com/48572908/147703891-4c1cb0e3-b354-4e96-82c1-f27a55ab4b60.png)
+
+
 
 
 
